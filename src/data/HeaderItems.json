@@ -1,0 +1,24 @@
+{
+    "HeaderItems":
+    [
+        {
+            "title": "Home",
+            "url": "/"
+        },
+        {
+            "title": "Services",
+            "url": "/Services"
+        },
+        {
+            "title": "Appointments",
+            "url": "/Appointments"
+        },
+        {
+            "title": "Contact",
+            "url": "/Contact"
+        }
+    ]
+
+    
+    
+}
